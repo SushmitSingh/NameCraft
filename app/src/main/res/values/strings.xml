@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">NameCraft</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="variations">Variations</string>
+    <string name="generate">Generate</string>
+</resources>

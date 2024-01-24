@@ -7,7 +7,7 @@ NameCraft is a simple and user-friendly Android app that allows users to generat
 
 ## Screenshots
 
-![App Screen](screenshots/app_screen.png)
+![App Screen](WhatsApp%20Image%202024-01-24%20at%2016.36.22.jpeg)
 *App Screen: The app allows users to generate names in various fonts and styles.*
 
 ## Features
